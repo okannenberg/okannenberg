@@ -30,7 +30,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okannenberg&theme=dracula" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=okannenberg&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
 ---
