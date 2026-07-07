@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3p50WGyUqhU52/giphy.gif" width="100%" alt="Banner Dev">
+  <img src="https://media1.tenor.com/m/bZgI-kO8998AAAAd/coding-computer.gif" width="100%" alt="Banner Dev">
 </p>
 
 # Hello, I'm Bruno Gustavo Kannenberg! 👋
