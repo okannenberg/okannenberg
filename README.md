@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=20,24,35&height=200&section=header&text=Olá,%20sou%20o%20okannenberg!&fontSize=40&fontColor=fff" alt="Banner de Boas-vindas" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5bXN0Y3RtYm1wZ3BwY3Rndm54bmRzOHBwY3Rndm54Ynd4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R4PWcmbXQ9MQ/3p50WGyUqhU52/giphy.gif" width="100%" alt="Banner Dev">
 </p>
 
 # Hello, I'm Bruno Gustavo Kannenberg! 👋
