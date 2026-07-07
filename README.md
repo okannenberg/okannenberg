@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5bXN0Y3RtYm1wZ3BwY3Rndm54bmRzOHBwY3Rndm54Ynd4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R4PWcmbXQ9MQ/3p50WGyUqhU52/giphy.gif" width="100%" alt="Banner Dev">
+  <img src="https://media.giphy.com/media/3p50WGyUqhU52/giphy.gif" width="100%" alt="Banner Dev">
 </p>
 
 # Hello, I'm Bruno Gustavo Kannenberg! 👋
@@ -25,7 +25,6 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 
