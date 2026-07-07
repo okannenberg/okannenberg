@@ -31,6 +31,7 @@ Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 <p align="center">
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=okannenberg&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="160" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=okannenberg&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas" height="160" />
 </p>
 
 ---
