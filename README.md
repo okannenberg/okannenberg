@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
+# Hello, I'm Bruno Gustavo Kannenberg! 👋
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5bXN0Y3RtYm1wZ3BwY3Rndm54bmRzOHBwY3Rndm54Ynd4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3R4PWcmbXQ9MQ/3p50WGyUqhU52/giphy.gif" width="300" alt="Dev GIF">
