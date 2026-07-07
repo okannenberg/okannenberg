@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=1000&auto=format&fit=crop" width="100%" alt="Banner Dev">
-</p>
+
 
 # Hello, I'm Bruno Gustavo Kannenberg! 👋
 
