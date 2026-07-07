@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Olá,%20sou%20o%20okannenberg!&fontSize=40" alt="Banner de Boas-vindas" />
+
 # Hello, I'm Bruno Gustavo Kannenberg! 👋
 
 <p align="center">
