@@ -45,13 +45,6 @@
 
 ---
 
-### 📂 Featured Projects
-<!-- Quando criar um projeto legal, substitua os links abaixo pelo link do seu repositório -->
-- 💻 **[Nome do Projeto]** - Uma breve descrição em inglês do que o projeto faz. `Stack: React, Next.js`
-- ⚙️ **[Nome do Projeto Back-End]** - API desenvolvida para resolver x problema. `Stack: Java, Spring Boot`
-
----
-
 ### 📊 My Stats
 
 <p align="center">
