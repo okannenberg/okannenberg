@@ -2,7 +2,11 @@
 ### Front End Developer | JavaScript | React
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="220" alt="Gatinho mandando beijo">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&theme=dark&height=250&section=header&text=Hi,%20I'm%20Bruno!&fontSize=70&fontAlignY=40&desc=Front%20End%20Developer%20%7C%20JavaScript%20%C2%B7%20React&descSize=22&descAlignY=65" alt="Banner Bruno" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="160" alt="Gatinho mandando beijo">
 </p>
 
 ### 🚀 Sobre Mim
