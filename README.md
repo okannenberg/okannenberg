@@ -1,35 +1,20 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" height="16px" alt="Linha Decorativa" />
-</p>
+# Olá, eu sou o Bruno Gustavo Kannenberg! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=7024B5&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Bruno+Gustavo!;Front+End+Developer;React+%7C+JavaScript" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="220" alt="Gatinho mandando beijo">
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:brunokannenberg794@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="180" alt="Gatinho mandando beijo">
-</p>
-
-### 👨‍💻 About Me
-I'm a passionate **Front End Developer** focused on creating clean, efficient, and well-structured web applications. I enjoy solving problems and turning ideas into interactive experiences.
-
-- 🚀 Currently working as a **Web Developer** focused on modern interfaces
-- 💡 Experienced in developing responsive layouts and component architecture
-- 🌱 Always learning and keeping up with the latest in software development
-- 🤝 Open to collaborating on interesting and impactful projects
+### 🚀 Sobre Mim
+- 🔭 Atualmente estou trabalhando como **[Sua Profissão/Cargo]**
+- 🌱 Aprendendo mais sobre **[Tecnologia que está estudando]**
+- 💬 Pergunte-me sobre **[Suas principais habilidades]**
+- 📫 Como me encontrar: **[Seu E-mail]**
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -45,4 +30,17 @@ I'm a passionate **Front End Developer** focused on creating clean, efficient, a
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=okannenberg&theme=dark" alt="GitHub Streak" height="160" />
+</p>
+
+---
+
+### 🌐 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
