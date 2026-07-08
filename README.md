@@ -8,7 +8,7 @@
 
 <blockquote>
   <p align="center">
-    <i>The Art of Overthinking
+    <i>"The Art of Overthinking"</i>
   </p>
 </blockquote>
 
@@ -45,10 +45,18 @@
 
 ---
 
+### 📂 Featured Projects
+<!-- Quando criar um projeto legal, substitua os links abaixo pelo link do seu repositório -->
+- 💻 **[Nome do Projeto]** - Uma breve descrição em inglês do que o projeto faz. `Stack: React, Next.js`
+- ⚙️ **[Nome do Projeto Back-End]** - API desenvolvida para resolver x problema. `Stack: Java, Spring Boot`
+
+---
+
 ### 📊 My Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=okannenberg&theme=dark" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okannenberg&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
 </p>
 
 ---
