@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&theme=dark&height=250&section=header&text=Hi,%20I%20am%20Bruno%20Gustavo%20Kannenberg&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Evolving%20Developer%20%7C%20React%20%C2%B7%20Spring&descSize=22&descAlignY=65" alt="Banner Bruno" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A1A1A&theme=dark&height=250&section=header&text=Hi,%20I%20am%20Bruno%20Kannenberg&fontSize=52&fontAlignY=40&desc=Full%20Stack%20Evolving%20Developer%20%7C%20React%20%C2%B7%20Spring&descSize=22&descAlignY=65" alt="Banner Bruno" />
 </p>
 
 <p align="center">
