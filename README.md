@@ -1,8 +1,5 @@
-# Hi, I'm Bruno Gustavo Kannenberg! 👋
-### Front End Developer | JavaScript | React
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&theme=dark&height=250&section=header&text=Hi,%20I'm%20Bruno!&fontSize=70&fontAlignY=40&desc=Front%20End%20Developer%20%7C%20JavaScript%20%C2%B7%20React&descSize=22&descAlignY=65" alt="Banner Bruno" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=61DAFB&theme=green&height=250&section=header&text=Hi,%20I'm%20Bruno!&fontSize=70&fontAlignY=40&desc=Front%20End%20Developer%20%7C%20JavaScript%20%C2%B7%20React&descSize=22&descAlignY=65" alt="Banner Bruno" />
 </p>
 
 <p align="center">
