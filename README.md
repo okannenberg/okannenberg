@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=okannenberg&theme=dark" alt="GitHub Streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okannenberg&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=okannenberg&layout=compact&theme=dark" alt="Top Languages" height="160" />
 </p>
 
 ---
