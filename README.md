@@ -3,20 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="160" alt="Gatinho mandando beijo">
+  <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="160" alt="Cat kissing">
 </p>
 
 <blockquote>
   <p align="center">
-    <i>"If you're not ashamed of the code you wrote six months ago, you're not evolving."</i> — Martin Fowler
+    <i>The Art of Overthinking
   </p>
 </blockquote>
 
 ### 🚀 About Me
-- 🔭 Currently working as **[Your Profession/Role]**
+- 🔭 Currently working as **Young Apprentice**
 - 🌱 Learning more about **Next.js and Spring Boot ecosystem**
-- 💬 Ask me about **JavaScript, React, and programming logic**
-- 📫 How to reach me: **[Your E-mail]**
+- 📫 How to reach me: **brunokannenberg794@gmail.com**
 
 ---
 
@@ -46,13 +45,6 @@
 
 ---
 
-### 🧠 Soft Skills
-* 🤝 **Teamwork & Collaboration:** Clear communication and collaborative problem-solving.
-* 🔍 **Attention to Detail:** Focused on user experience and writing clean code.
-* 💡 **Critical Thinking:** Analytical approach to finding efficient and scalable solutions.
-
----
-
 ### 📊 My Stats
 
 <p align="center">
@@ -64,10 +56,10 @@
 ### 🌐 Let's connect?
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/bruno-gustavo-19237a396/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:brunokannenberg794@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
