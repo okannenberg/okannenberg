@@ -1,6 +1,5 @@
-> [!NOTE]
-> # Hi, I'm Bruno Gustavo Kannenberg! 👋
-> ### Front End Developer | JavaScript | React
+# Hi, I'm Bruno Gustavo Kannenberg! 👋
+### Front End Developer | JavaScript | React
 
 <p align="center">
   <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="220" alt="Gatinho mandando beijo">
