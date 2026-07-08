@@ -1,15 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=7024b5&height=250&section=header&text=Hi,%20I'm%20Bruno!&fontSize=50&fontColor=ffffff&subText=Front%20End%20Developer%20|%20JavaScript%20|%20React&subTextSize=18" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%" height="16px" alt="Linha Decorativa" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=7024B5&center=true&vCenter=true&width=500&height=70&lines=Hi%2C+I'm+Bruno+Gustavo!;Front+End+Developer;React+%7C+JavaScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:brunokannenberg794@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <img src="https://komarev.com/ghvc/?username=okannenberg&label=PROFILE%20VIEWS&color=7024b5&style=for-the-badge" alt="Views" />
 </p>
 
 <p align="center">
