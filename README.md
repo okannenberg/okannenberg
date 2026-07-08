@@ -13,9 +13,9 @@
 </blockquote>
 
 ### 🚀 About Me
-- 🔭 Currently working as **Young Apprentice**
-- 🌱 Learning more about **Next.js and Spring Boot ecosystem**
-- 📫 How to reach me: **brunokannenberg794@gmail.com**
+🔭 Currently working as **Young Apprentice**
+🌱 Learning more about **Next.js and Spring Boot ecosystem**
+📫 How to reach me: **brunokannenberg794@gmail.com**
 
 ---
 
