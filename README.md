@@ -3,14 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="160" alt="Cat kissing">
+  <i>"The Art of Overthinking"</i>
 </p>
-
-<blockquote>
-  <p align="center">
-    <i>"The Art of Overthinking"</i>
-  </p>
-</blockquote>
 
 ### 🚀 About Me
 🔭 Currently working as **Young Apprentice**  
@@ -66,4 +60,14 @@
   <a href="mailto:brunokannenberg794@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ytu2GUYbvhz7zShGwS/giphy.gif" width="160" alt="Cat kissing">
+</p>
+
+<p align="center">
+    <i>Bye!</i>
 </p>
